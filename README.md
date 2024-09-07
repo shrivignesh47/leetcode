@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shrivignesh47/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shrivignesh47/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/shrivignesh47/leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shrivignesh47/leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/shrivignesh47/leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shrivignesh47/leetcode/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shrivignesh47/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
