@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shrivignesh47/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrivignesh47/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shrivignesh47/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/shrivignesh47/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shrivignesh47/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shrivignesh47/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/shrivignesh47/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -21,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shrivignesh47/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shrivignesh47/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shrivignesh47/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/shrivignesh47/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shrivignesh47/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shrivignesh47/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shrivignesh47/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/shrivignesh47/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shrivignesh47/leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/shrivignesh47/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shrivignesh47/leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/shrivignesh47/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/shrivignesh47/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shrivignesh47/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/shrivignesh47/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Database
@@ -79,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shrivignesh47/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shrivignesh47/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
