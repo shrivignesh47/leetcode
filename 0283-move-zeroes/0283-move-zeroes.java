@@ -6,9 +6,9 @@ class Solution {
         for(int i=0;i<n;i++){
             if(nums[i]!=0){
                 nums[k]=nums[i];
-                k+=1;
+                k++;
             }
-            else c+=1;
+            else c++;
         }
         for(int j=n-1;c>0;c--,j--){
             nums[j]=0;
