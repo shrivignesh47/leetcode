@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shrivignesh47/leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/shrivignesh47/leetcode/tree/master/0344-reverse-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/shrivignesh47/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shrivignesh47/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shrivignesh47/leetcode/tree/master/0258-add-digits) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/shrivignesh47/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shrivignesh47/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/shrivignesh47/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
