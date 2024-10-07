@@ -10,8 +10,8 @@ class Solution {
             }
             else c++;
         }
-        for(int j=n-1;c>0;c--,j--){
-            nums[j]=0;
+        for(int i=k;i<n;i++){
+            nums[i]=0;
         }
     }
 }
