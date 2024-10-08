@@ -15,8 +15,6 @@
         
 //     }
 // }
-
-
 class Solution {
     public int maxProfit(int[] prices) {
         int b=prices[0];
@@ -28,6 +26,5 @@ class Solution {
               b=Math.min(b,prices[i]);
         }
               return p;
-        
     }
 }
