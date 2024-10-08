@@ -8,7 +8,7 @@ class Solution {
     while(l<r){
         lmax=Math.max(lmax,height[l]);
         rmax=Math.max(rmax,height[r]);
-        ans+=lmax<rmax?lmax-height[l++]:rmax-height[r--];
+        ans=ans+(lmax<rmax?lmax-height[l++]:rmax-height[r--]);
     }
     return ans;
     }
