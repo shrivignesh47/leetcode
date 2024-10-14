@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shrivignesh47/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shrivignesh47/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shrivignesh47/leetcode/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/shrivignesh47/leetcode/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/shrivignesh47/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shrivignesh47/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/shrivignesh47/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrivignesh47/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/shrivignesh47/leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shrivignesh47/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/shrivignesh47/leetcode/tree/master/0792-binary-search) |
 ## Matrix
 |  |
 | ------- |
