@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shrivignesh47/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shrivignesh47/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shrivignesh47/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/shrivignesh47/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/shrivignesh47/leetcode/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/shrivignesh47/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shrivignesh47/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrivignesh47/leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/shrivignesh47/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/shrivignesh47/leetcode/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shrivignesh47/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shrivignesh47/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrivignesh47/leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/shrivignesh47/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/shrivignesh47/leetcode/tree/master/0937-online-stock-span) |
 ## Linked List
 |  |
