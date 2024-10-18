@@ -1,23 +1,17 @@
 class StockSpanner {
-    Stack<Integer> prs;
-    Stack<Integer> span;
+    Stack<int []> st;
     public StockSpanner() {
-        prs = new Stack<>();
-        span = new Stack<>();
+        st=new Stack<>(); 
     }
     
     public int next(int price) {
-        int c = 1;
-
-        while(!prs.isEmpty() && prs.peek() <= price){
-            prs.pop();
-            c += span.pop();
-        }
-
-        prs.push(price);
-        span.push(c);
-
-        return c;
+          int curr=price;
+          int streak=1;
+          while(!st.isEmpty() && st.peek()[0]<=curr){
+              streak+=st.pop()[1];
+          }
+          st.push(new int[]{price,streak});
+          return streak;
     }
 }
 
