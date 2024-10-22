@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/shrivignesh47/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/shrivignesh47/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/shrivignesh47/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/shrivignesh47/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shrivignesh47/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shrivignesh47/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shrivignesh47/leetcode/tree/master/0367-valid-perfect-square) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/shrivignesh47/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2571-find-the-pivot-integer](https://github.com/shrivignesh47/leetcode/tree/master/2571-find-the-pivot-integer) |
 ## String
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shrivignesh47/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shrivignesh47/leetcode/tree/master/0258-add-digits) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/shrivignesh47/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/shrivignesh47/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shrivignesh47/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shrivignesh47/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/shrivignesh47/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shrivignesh47/leetcode/tree/master/0206-reverse-linked-list) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/shrivignesh47/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
 | ------- |
@@ -230,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0860-design-circular-queue](https://github.com/shrivignesh47/leetcode/tree/master/0860-design-circular-queue) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/shrivignesh47/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/shrivignesh47/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
