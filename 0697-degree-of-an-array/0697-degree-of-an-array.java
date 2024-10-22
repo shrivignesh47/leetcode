@@ -3,7 +3,7 @@ class Solution {
         Map<Integer, Integer> num_count = new HashMap<>();
         int degree = 0;
         Map<Integer, Integer> first_seen = new HashMap<>();
-        int minlen = 0;
+        int minlen = Integer.MAX_VALUE;
 
         for (int i = 0; i < nums.length; i++) {
             first_seen.putIfAbsent(nums[i], i);
