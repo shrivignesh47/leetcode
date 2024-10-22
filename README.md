@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shrivignesh47/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/shrivignesh47/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/shrivignesh47/leetcode/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/shrivignesh47/leetcode/tree/master/0860-design-circular-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/shrivignesh47/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shrivignesh47/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/shrivignesh47/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shrivignesh47/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/shrivignesh47/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shrivignesh47/leetcode/tree/master/0206-reverse-linked-list) |
+| [0860-design-circular-queue](https://github.com/shrivignesh47/leetcode/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -214,9 +216,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0860-design-circular-queue](https://github.com/shrivignesh47/leetcode/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/shrivignesh47/leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/shrivignesh47/leetcode/tree/master/0937-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/shrivignesh47/leetcode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
