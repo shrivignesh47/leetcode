@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shrivignesh47/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/shrivignesh47/leetcode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/shrivignesh47/leetcode/tree/master/0860-design-circular-queue) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/shrivignesh47/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1319-unique-number-of-occurrences](https://github.com/shrivignesh47/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shrivignesh47/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/shrivignesh47/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shrivignesh47/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shrivignesh47/leetcode/tree/master/0258-add-digits) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/shrivignesh47/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shrivignesh47/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shrivignesh47/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrivignesh47/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shrivignesh47/leetcode/tree/master/0414-third-maximum-number) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/shrivignesh47/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -226,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/shrivignesh47/leetcode/tree/master/0860-design-circular-queue) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/shrivignesh47/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
