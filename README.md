@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shrivignesh47/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/shrivignesh47/leetcode/tree/master/0344-reverse-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shrivignesh47/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1205-defanging-an-ip-address](https://github.com/shrivignesh47/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shrivignesh47/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/shrivignesh47/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Simulation
