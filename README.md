@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/shrivignesh47/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/shrivignesh47/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shrivignesh47/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shrivignesh47/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shrivignesh47/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shrivignesh47/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrivignesh47/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shrivignesh47/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3195-separate-black-and-white-balls](https://github.com/shrivignesh47/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrivignesh47/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shrivignesh47/leetcode/tree/master/0414-third-maximum-number) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/shrivignesh47/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shrivignesh47/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/shrivignesh47/leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shrivignesh47/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shrivignesh47/leetcode/tree/master/0792-binary-search) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shrivignesh47/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
