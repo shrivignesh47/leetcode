@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/shrivignesh47/leetcode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/shrivignesh47/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/shrivignesh47/leetcode/tree/master/0739-daily-temperatures) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/shrivignesh47/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shrivignesh47/leetcode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/shrivignesh47/leetcode/tree/master/0860-design-circular-queue) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/shrivignesh47/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrivignesh47/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/shrivignesh47/leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shrivignesh47/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/shrivignesh47/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shrivignesh47/leetcode/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shrivignesh47/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
