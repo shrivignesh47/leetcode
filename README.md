@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/shrivignesh47/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/shrivignesh47/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shrivignesh47/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2331-intersection-of-multiple-arrays](https://github.com/shrivignesh47/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shrivignesh47/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shrivignesh47/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shrivignesh47/leetcode/tree/master/0414-third-maximum-number) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/shrivignesh47/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [2331-intersection-of-multiple-arrays](https://github.com/shrivignesh47/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shrivignesh47/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/shrivignesh47/leetcode/tree/master/0697-degree-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/shrivignesh47/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shrivignesh47/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2331-intersection-of-multiple-arrays](https://github.com/shrivignesh47/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Database
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrivignesh47/leetcode/tree/master/0169-majority-element) |
+| [2331-intersection-of-multiple-arrays](https://github.com/shrivignesh47/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Sliding Window
 |  |
 | ------- |
