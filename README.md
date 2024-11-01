@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/shrivignesh47/leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1319-unique-number-of-occurrences](https://github.com/shrivignesh47/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shrivignesh47/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/shrivignesh47/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/shrivignesh47/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shrivignesh47/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/shrivignesh47/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shrivignesh47/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/shrivignesh47/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shrivignesh47/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Number Theory
 |  |
