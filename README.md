@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/shrivignesh47/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shrivignesh47/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2571-find-the-pivot-integer](https://github.com/shrivignesh47/leetcode/tree/master/2571-find-the-pivot-integer) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/shrivignesh47/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/shrivignesh47/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shrivignesh47/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shrivignesh47/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
