@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/shrivignesh47/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shrivignesh47/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/shrivignesh47/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/shrivignesh47/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3451-string-compression-iii](https://github.com/shrivignesh47/leetcode/tree/master/3451-string-compression-iii) |
 ## Simulation
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/shrivignesh47/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shrivignesh47/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/shrivignesh47/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/shrivignesh47/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Database
 |  |
 | ------- |
