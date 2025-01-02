@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shrivignesh47/leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shrivignesh47/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2331-intersection-of-multiple-arrays](https://github.com/shrivignesh47/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/shrivignesh47/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/shrivignesh47/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/shrivignesh47/leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shrivignesh47/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shrivignesh47/leetcode/tree/master/0344-reverse-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shrivignesh47/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/shrivignesh47/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/shrivignesh47/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shrivignesh47/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/shrivignesh47/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/shrivignesh47/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shrivignesh47/leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/shrivignesh47/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2571-find-the-pivot-integer](https://github.com/shrivignesh47/leetcode/tree/master/2571-find-the-pivot-integer) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/shrivignesh47/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Binary Search
 |  |
 | ------- |
