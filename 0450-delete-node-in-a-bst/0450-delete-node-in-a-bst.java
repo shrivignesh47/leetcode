@@ -26,7 +26,7 @@ class Solution {
         return root;
     }
 
-    private TreeNode findMin(TreeNode node) {
+    public TreeNode findMin(TreeNode node) {
         while (node.left != null) {
             node = node.left;
         }
